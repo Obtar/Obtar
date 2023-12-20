@@ -1,3 +1,3 @@
 hello world.
 
-Rename gittile>obtar
+rename gittile>obtar
